@@ -1,0 +1,47 @@
+Entrelineas — verificación de la mejora puntual de accesibilidad
+
+Línea base real: 43 pruebas aprobadas, 221 assertions, 0.60 s.
+Resultado final: 47 pruebas aprobadas, 272 assertions, 0.61 s.
+Se agregaron 4 pruebas Feature; PHPUnit utiliza SQLite :memory:.
+Composer validate: PASS. Pint --test: PASS.
+PHP lint: layout.blade.php, public/show.blade.php, BlogTest.php: PASS.
+node --check public/js/accessibility.js: PASS.
+
+Comprobaciones reales en Chrome, http://127.0.0.1:8020:
+- Panel: abrir/cerrar con Enter y Space; Escape devuelve el foco al botón.
+- Teclado desde barra de direcciones: Tab al skip link, Enter al main;
+  Shift+Tab al botón Accesibilidad, Tab a Cerrar panel y Space para cerrar.
+- Normal, Alto contraste, Oscuro y Lectura cómoda: revisión visual realizada.
+- Foco: outline de 3px y separación de 4px en las cuatro paletas.
+- Tamaños 100 %, 125 %, 150 %: aplicados y comprobados (16/20/24px raíz).
+- Preferencias conservadas entre inicio, noticias, detalle y administración.
+- Restablecer: apariencia/texto normales y ayuda por voz desactivada.
+- Vista de 320px con texto 150 %: panel y listado sin overflow horizontal general.
+- Zoom del navegador 200 %: confirmado en Chrome; home sin overflow general.
+- Lector: inicio confirmado por onstart; Pausar, Continuar y Detener por teclado;
+  estados visibles comprobados. No se evaluó subjetivamente la calidad audible.
+- Ayuda por voz: activación, persistencia, desactivación y formulario inválido.
+- Validación fallida de creación: foco en resumen, enlace al campo, aria-invalid,
+  aria-describedby y valores conservados. Envío rechazado, sin crear noticia.
+- Login y edición inválidos: resumen y asociaciones comprobados automáticamente.
+- Errores, éxitos y estados mantienen equivalentes textuales; voz opcional.
+- Fallback sin JS: contenido y formularios renderizados por Blade; controles
+  dependientes de JS inicialmente desactivados y explicación en noscript.
+  No se desactivó JavaScript en esta revisión del navegador.
+
+Contrastes calculados sobre las variables CSS (texto mínimo / foco mínimo):
+Normal 5.95:1 / 6.21:1; Alto contraste 6.55:1 / 6.46:1;
+Oscuro 7.47:1 / 8.91:1; Lectura cómoda 5.51:1 / 5.85:1.
+Pares: texto, secundario, acento, éxito y error sobre fondos base/superficie/
+suaves/búsqueda/tabla; texto de botón sobre acento/hover. No es auditoría WCAG.
+
+Incidencias corregidas durante la mejora:
+- Un h2 del panel precedía al h1: detectado por la suite; sustituido por título
+  de región con párrafo y aria-labelledby, conservando la jerarquía del contenido.
+- Título del panel se partía a 320px/150 %: reducido proporcionalmente y ajustado
+  el espaciado; revisión visual repetida.
+
+Los documentos/evidencias del cierre académico anterior conservan la línea base.
+Este registro identifica los resultados de esta actualización puntual.
+No se cambiaron modelos, rutas, controladores, migraciones, seeders ni reglas.
+No se ejecutaron migraciones ni comandos sobre MariaDB durante esta mejora.

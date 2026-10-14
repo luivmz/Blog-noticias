@@ -1,0 +1,6 @@
+projectKey=pa02-blog-noticias
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=pa02-blog-noticias
+ceTaskId=5f1f32a4-4553-48d8-b67e-d1def6a74c84
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5f1f32a4-4553-48d8-b67e-d1def6a74c84

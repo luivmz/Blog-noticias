@@ -1,0 +1,182 @@
+[
+  [
+    "Tecnología",
+    "Un laboratorio abierto para reparar antes de reemplazar",
+    "Una jornada de diagnóstico invita a conocer mejor los equipos y a extender su vida útil.",
+    [
+      "Un grupo de estudiantes propone abrir una mesa de reparación los viernes por la tarde. La idea comienza con tareas sencillas: revisar conexiones, limpiar equipos apagados y reconocer cuándo hace falta ayuda especializada.",
+      "Cada participante llevará un registro del problema y de las comprobaciones realizadas. No se intervendrán fuentes de alimentación ni dispositivos con daños eléctricos; esos casos se derivarán a personal técnico.",
+      "La iniciativa busca convertir el mantenimiento en una experiencia de aprendizaje compartido. Reparar también exige escuchar a quien utiliza el equipo y explicar con claridad las decisiones tomadas."
+    ]
+  ],
+  [
+    "Educación",
+    "La biblioteca ensaya un espacio para estudiar en silencio",
+    "Una propuesta estudiantil reorganiza las mesas para combinar concentración y trabajo en grupo.",
+    [
+      "La biblioteca del campus ficticio reservará una zona tranquila durante las semanas de evaluación. Un cartel escrito distinguirá el espacio de lectura del sector destinado a conversaciones de trabajo.",
+      "El ensayo contempla mesas con pasillos amplios y ubicaciones cercanas a la entrada. Quienes necesitan descansar la vista podrán elegir asientos alejados de los reflejos de las ventanas.",
+      "Al terminar la semana se recogerán comentarios breves sobre ruido, iluminación y comodidad. La evaluación ayudará a decidir si la distribución permite estudiar sin dificultar el acceso de otras personas."
+    ]
+  ],
+  [
+    "Ciencia",
+    "Un huerto pequeño para aprender a observar",
+    "Estudiantes registran cambios de humedad y crecimiento sin apresurar conclusiones.",
+    [
+      "Cuatro macetas se han convertido en un ejercicio de observación para el taller de ciencias. El grupo medirá humedad y crecimiento con el mismo procedimiento durante varias semanas.",
+      "Las fichas incluirán la fecha, el instrumento empleado y cualquier cambio en el riego. Cuando falte una medición, se registrará como dato ausente en lugar de estimarla sin evidencia.",
+      "El proyecto recuerda que una muestra pequeña tiene límites. Las observaciones servirán para formular preguntas y practicar el registro, pero no para recomendar un método de cultivo universal."
+    ]
+  ],
+  [
+    "Comunidad",
+    "El intercambio de libros reúne nuevas conversaciones",
+    "Una mesa comunitaria ofrece lecturas con notas breves de sus anteriores lectores.",
+    [
+      "La feria de intercambio recibirá libros en buen estado y permitirá elegir uno sin necesidad de entregar otro. Cada ejemplar tendrá una tarjeta con su tema y el idioma en el que está escrito.",
+      "Las recomendaciones serán voluntarias y evitarán revelar finales. La organización preparará una lista impresa con letras legibles para quienes prefieran revisar las opciones antes de acercarse a la mesa.",
+      "Los ejemplares restantes se conservarán para una próxima jornada. El objetivo es dar continuidad a la lectura y facilitar encuentros entre estudiantes de distintas especialidades."
+    ]
+  ],
+  [
+    "Tecnología",
+    "Un mapa del campus pensado para pantallas pequeñas",
+    "El taller de diseño simplifica las indicaciones y acompaña los puntos de referencia con texto.",
+    [
+      "La primera versión del mapa universitario reduce los controles visibles y prioriza las rutas habituales. En lugar de depender de símbolos aislados, cada edificio tendrá un nombre escrito.",
+      "El equipo probará el recorrido con personas que utilizan teclado y con quienes amplían el texto. También revisará si las instrucciones se entienden sin conocer previamente las abreviaturas del campus.",
+      "Antes de añadir nuevas funciones, el taller recogerá dificultades concretas. Un mapa útil debe ayudar a llegar a un lugar sin obligar a aprender una interfaz complicada."
+    ]
+  ],
+  [
+    "Educación",
+    "Aprender en parejas ayuda a explicar mejor las ideas",
+    "Una dinámica de tutoría propone alternar preguntas, ejemplos y pequeñas comprobaciones.",
+    [
+      "El círculo de estudio pondrá a prueba sesiones de veinte minutos con dos participantes. Uno explicará un concepto y el otro preparará una pregunta que permita reconocer si la explicación fue clara.",
+      "Los roles se intercambiarán a mitad de la sesión. El material incluirá ejemplos resueltos y un ejercicio nuevo, de modo que recordar una respuesta no sea suficiente para demostrar comprensión.",
+      "Las personas participantes anotarán qué parte resultó difícil de explicar. Esas notas se utilizarán para preparar la siguiente reunión, sin clasificar públicamente el desempeño individual."
+    ]
+  ],
+  [
+    "Ciencia",
+    "Medir la luz abre preguntas sobre el aula",
+    "Un ejercicio compara ubicaciones y horarios para describir cómo cambia la iluminación.",
+    [
+      "El club de ciencias realizará mediciones de luz en distintas mesas de un aula. La actividad se repetirá en dos horarios y mantendrá constante la orientación del instrumento.",
+      "Las hojas de registro incluirán el estado de las cortinas y la presencia de iluminación artificial. Las diferencias se revisarán junto con esas condiciones antes de elaborar una interpretación.",
+      "El grupo presentará las observaciones como una exploración local. Para recomendar cambios permanentes hará falta ampliar las mediciones y consultar necesidades de lectura y accesibilidad."
+    ]
+  ],
+  [
+    "Comunidad",
+    "Una bienvenida con rutas claras y pausas suficientes",
+    "El recorrido de ingreso prioriza indicaciones escritas y espacios de descanso.",
+    [
+      "La comisión estudiantil prepara una visita breve para quienes llegan por primera vez. La ruta conectará la biblioteca, las aulas y los espacios de atención con indicaciones disponibles por escrito.",
+      "El recorrido tendrá pausas y una alternativa que evite escaleras. Se compartirá el punto de encuentro con anticipación para reducir la incertidumbre sobre dónde comienza la actividad.",
+      "Las consultas recogidas servirán para actualizar una guía sencilla. La bienvenida pretende facilitar los primeros días sin exigir que las personas recuerden toda la información de una sola vez."
+    ]
+  ],
+  [
+    "Tecnología",
+    "Contraseñas de práctica para aprender seguridad básica",
+    "Un taller utiliza cuentas ficticias y evita trabajar con credenciales personales.",
+    [
+      "El taller introductorio mostrará cómo identificar mensajes de acceso poco claros y cómo proteger una sesión. Las actividades se realizarán en un entorno local con usuarios preparados para la clase.",
+      "Ninguna persona deberá compartir su contraseña real. Las demostraciones incluirán cerrar sesión, comprobar que una pantalla administrativa está protegida y reconocer un intento de acceso fallido.",
+      "La guía final reunirá acciones simples para trabajar con mayor cuidado. Las pruebas del taller no sustituyen una evaluación especializada de seguridad."
+    ]
+  ],
+  [
+    "Educación",
+    "Una rúbrica visible antes de empezar el proyecto",
+    "Compartir criterios de evaluación ayuda a organizar el trabajo y revisar avances.",
+    [
+      "El seminario de proyectos entregará sus criterios de evaluación antes de la primera actividad. Cada criterio estará acompañado de una descripción breve y un ejemplo del tipo de evidencia esperado.",
+      "Las entregas parciales permitirán revisar dudas sobre el alcance. El equipo docente distinguirá entre un resultado observado y una tarea pendiente para que la retroalimentación sea concreta.",
+      "El propósito es que cada estudiante pueda planificar y justificar su trabajo. Conocer los criterios no elimina el esfuerzo, pero permite dirigirlo hacia resultados verificables."
+    ]
+  ],
+  [
+    "Ciencia",
+    "Una bitácora transforma el experimento en evidencia",
+    "Anotar decisiones y cambios permite comprender cómo se obtuvo un resultado.",
+    [
+      "El taller de investigación incorporará una bitácora compartida a cada ejercicio. Allí se registrarán materiales, decisiones y condiciones que puedan influir en las observaciones.",
+      "Cuando se cambie una parte del procedimiento, la anotación explicará el motivo. El registro conservará los resultados anteriores para que una corrección no borre la historia del experimento.",
+      "La bitácora se revisará al preparar el informe. Contar con datos ordenados ayuda a reconocer limitaciones y a separar conclusiones de suposiciones."
+    ]
+  ],
+  [
+    "Comunidad",
+    "Una cartelera que se puede leer sin acercarse demasiado",
+    "La propuesta reorganiza anuncios para reducir ruido visual y mejorar su lectura.",
+    [
+      "El comité del campus renovará la cartelera con secciones claramente identificadas. Los avisos tendrán títulos breves, fechas visibles y una forma de contacto escrita.",
+      "La nueva distribución dejará espacio entre anuncios y evitará colocar información esencial en letras pequeñas. También se revisará que los mensajes no dependan únicamente de colores.",
+      "La cartelera se actualizará cada semana para retirar convocatorias vencidas. Mantener pocas opciones vigentes puede resultar más útil que acumular anuncios difíciles de recorrer."
+    ]
+  ],
+  [
+    "Tecnología",
+    "Probar antes de publicar también es diseñar",
+    "Una práctica de software conecta los requisitos con tareas que una persona puede completar.",
+    [
+      "El grupo de programación elaborará casos de prueba mientras construye una pequeña aplicación. Cada caso describirá un objetivo, los datos necesarios y el resultado que debería observarse.",
+      "La revisión incluirá mensajes de error y navegación por teclado. Las funciones se evaluarán junto con la claridad de la interfaz para identificar problemas que una comprobación de código puede pasar por alto.",
+      "Los resultados se conservarán como evidencia de lo que realmente se ejecutó. Una prueba pendiente se señalará de forma explícita y no se presentará como aprobada."
+    ]
+  ],
+  [
+    "Educación",
+    "Una pausa planificada mejora la sesión de estudio",
+    "El círculo de aprendizaje organiza bloques breves con objetivos concretos y descanso.",
+    [
+      "La próxima reunión del círculo de aprendizaje comenzará con una meta pequeña para cada participante. El bloque de trabajo se dedicará a una sola tarea y terminará con una revisión breve.",
+      "El descanso será una parte prevista de la sesión. Cada persona podrá decidir si necesita alejarse de la pantalla o continuar con una actividad de lectura en papel.",
+      "La experiencia se revisará mediante comentarios voluntarios. El grupo evitará presentar una rutina única como solución para todas las necesidades de atención."
+    ]
+  ],
+  [
+    "Ciencia",
+    "Comparar resultados exige mirar también el método",
+    "El taller analiza por qué dos mediciones parecidas pueden describir situaciones distintas.",
+    [
+      "Una actividad de laboratorio entregará dos tablas ficticias con resultados cercanos. Antes de compararlas, los estudiantes tendrán que revisar unidades, instrumentos y condiciones de medición.",
+      "El ejercicio añadirá un dato incompleto para discutir cómo debe registrarse. La discusión buscará una decisión justificable, sin rellenar el espacio con una cifra inventada.",
+      "La puesta en común destacará que un número necesita contexto. Aprender a describir el método es parte de comunicar los resultados con responsabilidad."
+    ]
+  ],
+  [
+    "Comunidad",
+    "El patio se convierte en un espacio de lectura compartida",
+    "Una reunión propone leer fragmentos propios con apoyo escrito y participación voluntaria.",
+    [
+      "La jornada de lectura recibirá textos originales preparados por estudiantes. Cada participación podrá acompañarse de una copia impresa para quienes prefieran seguir el contenido visualmente.",
+      "Las personas podrán compartir su texto sin leerlo en voz alta. La organización reservará asientos accesibles y mantendrá rutas libres alrededor de la zona de encuentro.",
+      "La actividad terminará con una invitación a intercambiar comentarios respetuosos. Participar también puede significar escuchar, leer o simplemente permanecer en el espacio."
+    ]
+  ],
+  [
+    "Tecnología",
+    "Una guía breve para organizar archivos del proyecto",
+    "Borrador editorial pendiente de revisar antes de su publicación.",
+    [
+      "La guía propone nombres de archivo comprensibles y carpetas que distingan código, documentación y evidencia. El contenido está pendiente de revisión por la redacción.",
+      "El ejemplo mostrará cómo conservar una versión final sin incluir credenciales locales. Antes de publicarlo se comprobarán los pasos en un proyecto de práctica.",
+      "Esta noticia permanece como borrador y no debe aparecer en el sitio público."
+    ]
+  ],
+  [
+    "Comunidad",
+    "Preparativos para una jornada de puertas abiertas",
+    "La redacción conserva una propuesta todavía no confirmada.",
+    [
+      "Un grupo prepara una posible jornada para mostrar proyectos del semestre. Las actividades y el horario aún necesitan confirmación, por lo que este texto no se publicará.",
+      "La propuesta incluye explicaciones breves y recorridos con instrucciones escritas. La organización revisará accesos y espacios de descanso antes de anunciar la actividad.",
+      "Este borrador sirve para practicar la separación entre contenido interno y noticias publicadas."
+    ]
+  ]
+]

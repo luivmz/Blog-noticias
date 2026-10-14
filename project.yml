@@ -1,0 +1,21 @@
+project:
+  name: "Entrelineas"
+  version: 1.0.0
+  description: "Blog de noticias autoadministrable con enfoque en accesibilidad y calidad de software"
+  stack:
+    detect: true
+
+academic:
+  course: "Pruebas y Calidad de Software"
+  evaluation_name: "Evaluación del Parcial"
+  partial_weight_percentage: 80
+
+  evaluator:
+    name: "NOMBRE_REAL_DOCENTE"
+    email: "CORREO_REAL_DOCENTE"
+    role: "Docente Evaluador"
+
+  members:
+    - name: "Luis Antonio Vila Meza"
+      code: "TU_CODIGO"
+      email: "TU_CORREO_INSTITUCIONAL"

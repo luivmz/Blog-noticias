@@ -1,0 +1,5 @@
+@extends('layout')
+@section('title','Administración')
+@section('content')
+<p class="eyebrow">La redacción</p><h1>Administración</h1><p class="intro">Organiza las historias y decide cuándo publicarlas.</p><dl class="stats"><div><dt>Total de noticias</dt><dd>{{ $total }}</dd></div><div><dt>Publicadas</dt><dd>{{ $published }}</dd></div><div><dt>Borradores</dt><dd>{{ $drafts }}</dd></div></dl><div class="actions"><a class="button" href="{{ route('admin.noticias.create') }}">Crear noticia</a><a class="button secondary" href="{{ route('admin.noticias.index') }}">Administrar noticias</a></div><section class="admin-guide" aria-labelledby="recientes"><h2 id="recientes">Noticias recientes</h2><ul>@forelse($posts as $post)<li><a href="{{ route('admin.noticias.edit',$post) }}">Editar: {{ $post->title }}</a> · {{ $post->status === 'published' ? 'Publicado' : 'Borrador' }}</li>@empty<li>Todavía no hay noticias.</li>@endforelse</ul></section><section class="admin-guide"><h2>Tu próxima publicación</h2><p>Guarda un borrador mientras preparas el contenido. Elige «Publicado» cuando esté listo para que aparezca en el blog.</p></section>
+@endsection

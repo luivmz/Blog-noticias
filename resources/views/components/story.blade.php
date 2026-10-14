@@ -1,0 +1,2 @@
+@props(['post'])
+<article class="story"><p class="meta">{{ $post->category->name }} <span aria-hidden="true">·</span> <time datetime="{{ $post->published_at->toDateString() }}">{{ $post->published_at->translatedFormat('d M Y') }}</time></p><h3><a href="{{ route('news.show',$post->slug) }}">{{ $post->title }}</a></h3><p>{{ $post->summary }}</p><a class="read-link" href="{{ route('news.show',$post->slug) }}">Leer noticia<span class="sr-only">: {{ $post->title }}</span> <span aria-hidden="true">→</span></a></article>

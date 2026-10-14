@@ -1,0 +1,7 @@
+@extends('layout')
+@section('title','Noticias')
+@section('content')
+<p class="eyebrow">El archivo editorial</p><h1>Noticias</h1><p class="intro">Encuentra una historia, explora un tema y sigue aprendiendo.</p>
+<form action="{{ route('news.index') }}" method="get" class="search-form"><div><label for="q">Buscar noticias</label><input id="q" name="q" type="search" maxlength="150" value="{{ request('q') }}" @error('q') aria-invalid="true" aria-describedby="q-error" @enderror>@error('q')<p id="q-error" class="field-error">{{ $message }}</p>@enderror</div><div><label for="category">Categoría</label><select id="category" name="category" @error('category') aria-invalid="true" aria-describedby="category-error" @enderror><option value="">Todas las categorías</option>@foreach($categories as $category)<option value="{{ $category->id }}" @selected(request('category')==$category->id)>{{ $category->name }}</option>@endforeach</select>@error('category')<p id="category-error" class="field-error">{{ $message }}</p>@enderror</div><button type="submit">Buscar</button><a href="{{ route('news.index') }}">Limpiar filtros</a></form>
+<section aria-labelledby="resultados"><h2 id="resultados" class="result-count">{{ $posts->total() }} noticias encontradas</h2><div class="stories">@forelse($posts as $post)<x-story :post="$post" />@empty<p class="empty">No se encontraron noticias con los criterios seleccionados.</p>@endforelse</div>{{ $posts->links() }}</section>
+@endsection
